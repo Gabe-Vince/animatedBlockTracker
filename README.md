@@ -26,7 +26,7 @@ This tutorial is aimed at developers with some experience in React and a basic u
 
 - **React**: A popular JavaScript library for building user interfaces.
 - **Next.js**: A React framework with a range of features for modern web development.
-- **Viem**: A tool for real-time blockchain data.
+- **Viem**: A tool that is lightweight, composable, and type-safe that includes modules that interface with Ethereum
 - **Rive**: A platform for interactive, real-time animations.
 - **Rive-React Runtime library**: A library for integrating Rive animations into a React app.
 - **framer-motion**: A powerful library for controlling animations in React, enabling fluid visual transitions and user interactions.

@@ -33,3 +33,13 @@ This tutorial is aimed at developers with some experience in React and a basic u
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces, allowing fine control over design elements.
 
 With these tools, we'll be able to create a dynamic, real-time web app that beautifully visualizes on-chain events. So let's get started!
+
+## Set Up
+
+Run the following to install all the neccessary packages:
+
+```npm install```
+
+Then run the following to start up the dev enviroment and see the cool animation follow on chain events in real time:
+
+```npm run dev```

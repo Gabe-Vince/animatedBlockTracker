@@ -38,7 +38,9 @@ With these tools, we'll be able to create a dynamic, real-time web app that beau
 
 Run the following to install all the neccessary packages:
 
-```npm install```
+```
+npm install
+```
 
 Then run the following to start up the dev enviroment and see the cool animation follow on chain events in real time:
 

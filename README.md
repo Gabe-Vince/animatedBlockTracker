@@ -44,4 +44,6 @@ npm install
 
 Then run the following to start up the dev enviroment and see the cool animation follow on chain events in real time:
 
-```npm run dev```
+```
+npm run dev
+```
